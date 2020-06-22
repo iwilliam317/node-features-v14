@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "email": "michael.lawson@email.com",
+        "first_name": "Michael",
+        "last_name": "Lawson"
+    },
+    {
+        "id": 2,
+        "email": "lindsay.ferguson@email.com",
+        "first_name": "Lindsay",
+        "last_name": "Ferguson"
+    },
+    {
+        "id": 3,
+        "email": "tobias.funke@email.com",
+        "first_name": "Tobias",
+        "last_name": "Funke"
+    },
+    {
+        "id": 4,
+        "email": "byron.fields@email.com",
+        "first_name": "Byron",
+        "last_name": "Fields"
+    }
+]
